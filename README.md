@@ -47,6 +47,8 @@
 
 ### [Repo](https://github.com/lokkib/Game-Scissors-Rock-Paper)
 
+### [Gh-Page](https://lokkib.github.io/Game-Scissors-Rock-Paper)
+
 Многопользовательская игра, реализованная с в помощью концепции SPA.
 
 Функционал:
