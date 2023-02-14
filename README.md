@@ -28,7 +28,7 @@
 
 ### [Repo](https://github.com/lokkib/Card-Game)
 
-### [Gh-Page] (https://lokkib.github.io/Card-Game)
+### Gh-Page (https://lokkib.github.io/Card-Game)
 
 
 Функционал:
