@@ -4,7 +4,7 @@
 
 ### [Repo](https://github.com/lokkib/Music-Service)
 
-### [Gh-Page] (https://lokkib.github.io/Music-Service)
+### [Gh-Page](https://lokkib.github.io/Music-Service)
 
 Стек:
 
